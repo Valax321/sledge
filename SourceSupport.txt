@@ -1,0 +1,13 @@
+MVP to support the Source Engine:
+--- Filesystem ---
+* GameInfo parsing
+	* Extract path information from the macros (e.g. |gameinfo_path|) - are these only used by > 2009 branches?
+
+--- Geometry ---
+* Displacements
+
+--- Formats ---
+* Ensure the VMF supported here is the same as source's version(s)
+* VMT - at the very least just rendering $baseTexture would suffice
+* VTF
+* Source engine MDL versions - how many *are* there?
